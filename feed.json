@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Peter Yates",
+    "description": "",
+    "home_page_url": "https://peteryates.net",
+    "feed_url": "https://peteryates.net/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Peter Yates"
+    },
+    "items": [
+        {
+            "id": "https://peteryates.net/notre-dame-history-project.html",
+            "url": "https://peteryates.net/notre-dame-history-project.html",
+            "title": "Notre Dame History Project",
+            "summary": " ",
+            "content_html": "<p> </p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/-fvhxUAAz6U\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "author": {
+                "name": "Peter Yates"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-01T17:50:54+11:00",
+            "date_modified": "2022-03-01T17:50:54+11:00"
+        }
+    ]
+}
