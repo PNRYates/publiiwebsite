@@ -10,18 +10,33 @@
     },
     "items": [
         {
-            "id": "https://peteryates.net/notre-dame-history-project.html",
-            "url": "https://peteryates.net/notre-dame-history-project.html",
-            "title": "Notre Dame History Project",
-            "summary": " ",
-            "content_html": "<p> </p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/-fvhxUAAz6U\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "id": "https://peteryates.net/contact-me/",
+            "url": "https://peteryates.net/contact-me/",
+            "title": "Contact Me",
+            "summary": "Contact me here. FormSubmit Demo Submit Form",
+            "content_html": "<p>Contact me here.</p>\n<div class=\"container\">\n<h1>FormSubmit Demo</h1>\n<form action=\"https://formsubmit.co/peter.yates5@outlook.com\" method=\"POST\" target=\"_blank\">\n<div class=\"form-group\">\n<div class=\"form-row\">\n<div class=\"col\"><input class=\"form-control\" name=\"name\" required=\"\" type=\"text\" placeholder=\"Full Name\"></div>\n<div class=\"col\"><input class=\"form-control\" name=\"email\" required=\"\" type=\"email\" placeholder=\"Email Address\"></div>\n</div>\n</div>\n<div class=\"form-group\"><textarea class=\"form-control\" name=\"message\" required=\"\" rows=\"10\" placeholder=\"Your Message\"></textarea></div>\n<button class=\"btn btn-lg btn-dark btn-block\" type=\"submit\">Submit Form</button></form></div>",
             "author": {
                 "name": "Peter Yates"
             },
             "tags": [
             ],
+            "date_published": "2022-03-02T14:04:06+11:00",
+            "date_modified": "2022-03-02T14:04:06+11:00"
+        },
+        {
+            "id": "https://peteryates.net/notre-dame-history-project/",
+            "url": "https://peteryates.net/notre-dame-history-project/",
+            "title": "Notre Dame History Project",
+            "summary": "<p>This is my Notre Dame history project, which I made in Febuary 2022, for the first assessment task of year 8.</p>\n",
+            "content_html": "<p>This is my Notre Dame history project, which I made in Febuary 2022, for the first assessment task of year 8.</p>\n\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/-fvhxUAAz6U\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<h2>Transcript</h2>\n<p>Notre Dame de Paris, which translates to ‘Our lady of Parisʼ is an icon of the medieval<br>world in Paris, France. Letʼs take a deeper look at the features of Notre Dame.<br>Notre Dame was constructed on the site of an early christian church, the Cathedral of<br>Saint-Étienne, in 1160, when the Bishop of Paris decided to build a larger, Gothic style<br>church.<br>Now, letʼs move on to the Physical Features of the cathedral.<br>Notre Dameʼs flying buttresses were built in 1200, to help support the roof and keep<br>the Cathedral structurally sound. Because of the immense weight of the roof, the walls<br>had to be thicker than a normal cathedral, and couldnʼt have large windows. Flying<br>buttresses remedied this by spreading the weight of the roof onto pillars outside the<br>main hall of the cathedral.<br>Notre Dameʼs gargoyles were built to ward off demons and evil spirits from<br>churchgoers, but also have an important role in draining water from the roof of the<br>cathedral. The traditional draining system of the time, with water running down the<br>walls of cathedral, would eventually erode the walls of the building and would not<br>withstand over time. Notre Dame uses a system where water is caught from the<br>gutters on the roof, and flows through the hollowed-out flying buttresses. At the end of<br>the flying buttresses, gargoyles are mounted, and are designed so the flowing water<br>appears to come out of the mouths of the creatures.<br>The three largest stained glass windows in Notre Dame, also known as the rose<br>windows, named after their petal shape, are one of the most well-known aspects of the<br>cathedral. The south window has 94 circles arranged in the shape of a flower, with<br>each depicting a scene from the bible, as well as variants saint and martyrs of France.<br>Notre Dameʼs Interior features a seating capacity of 9,000 people, with the standard<br>nave and apse of a church of that timeframe. The cathedral also housed 10 bells,<br>which throughout the middle ages have rung the time, call to prayer, as well as<br>significant events such as the crowning of a new king. A number of significant catholic<br>religious leaders have been laid to rest in the cathedral, including notable bishops and<br>archbishops of Paris.<br>The cathedral also featured numerous christian relics, including the Crown of Thorns,<br>which is what Jesus alledgedly wore on the cross, as well as a nail from the same<br>cross.<br>Notre Dame featured one of the largest organs of the age, built by Frédéric<br>Schambantz in 1403, which featured over 8,000 pipes.<br>Notre Dame was an icon of its time, and even after the devastating fire in 2019, will still<br>be an incredible example of art and engineering of the middle ages.</p>\n<p> </p>",
+            "author": {
+                "name": "Peter Yates"
+            },
+            "tags": [
+                   "History"
+            ],
             "date_published": "2022-03-01T17:50:54+11:00",
-            "date_modified": "2022-03-01T18:12:17+11:00"
+            "date_modified": "2022-03-09T10:50:30+11:00"
         }
     ]
 }
