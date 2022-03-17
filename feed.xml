@@ -10,37 +10,6 @@
     <id>https://peteryates.net</id>
 
     <entry>
-        <title>Contact Me</title>
-        <author>
-            <name>Peter Yates</name>
-        </author>
-        <link href="https://peteryates.net/contact-me/"/>
-        <id>https://peteryates.net/contact-me/</id>
-
-        <updated>2022-03-02T14:04:06+11:00</updated>
-            <summary>
-                <![CDATA[
-                    Contact me here. FormSubmit Demo Submit Form
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Contact me here.</p>
-<div class="container">
-<h1>FormSubmit Demo</h1>
-<form action="https://formsubmit.co/peter.yates5@outlook.com" method="POST" target="_blank">
-<div class="form-group">
-<div class="form-row">
-<div class="col"><input class="form-control" name="name" required="" type="text" placeholder="Full Name"></div>
-<div class="col"><input class="form-control" name="email" required="" type="email" placeholder="Email Address"></div>
-</div>
-</div>
-<div class="form-group"><textarea class="form-control" name="message" required="" rows="10" placeholder="Your Message"></textarea></div>
-<button class="btn btn-lg btn-dark btn-block" type="submit">Submit Form</button></form></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Notre Dame History Project</title>
         <author>
             <name>Peter Yates</name>

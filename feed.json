@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://peteryates.net/contact-me/",
-            "url": "https://peteryates.net/contact-me/",
-            "title": "Contact Me",
-            "summary": "Contact me here. FormSubmit Demo Submit Form",
-            "content_html": "<p>Contact me here.</p>\n<div class=\"container\">\n<h1>FormSubmit Demo</h1>\n<form action=\"https://formsubmit.co/peter.yates5@outlook.com\" method=\"POST\" target=\"_blank\">\n<div class=\"form-group\">\n<div class=\"form-row\">\n<div class=\"col\"><input class=\"form-control\" name=\"name\" required=\"\" type=\"text\" placeholder=\"Full Name\"></div>\n<div class=\"col\"><input class=\"form-control\" name=\"email\" required=\"\" type=\"email\" placeholder=\"Email Address\"></div>\n</div>\n</div>\n<div class=\"form-group\"><textarea class=\"form-control\" name=\"message\" required=\"\" rows=\"10\" placeholder=\"Your Message\"></textarea></div>\n<button class=\"btn btn-lg btn-dark btn-block\" type=\"submit\">Submit Form</button></form></div>",
-            "author": {
-                "name": "Peter Yates"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-03-02T14:04:06+11:00",
-            "date_modified": "2022-03-02T14:04:06+11:00"
-        },
-        {
             "id": "https://peteryates.net/notre-dame-history-project/",
             "url": "https://peteryates.net/notre-dame-history-project/",
             "title": "Notre Dame History Project",
