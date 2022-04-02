@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://peteryates.net/sitemap.xml
+Disallow: /
