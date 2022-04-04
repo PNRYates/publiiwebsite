@@ -3,12 +3,32 @@
     <title>Peter Yates</title>
     <link href="https://peteryates.net/feed.xml" rel="self" />
     <link href="https://peteryates.net" />
-    <updated>2022-04-02T16:08:58+11:00</updated>
+    <updated>2022-04-05T07:33:36+10:00</updated>
     <author>
         <name>Peter Yates</name>
     </author>
     <id>https://peteryates.net</id>
 
+    <entry>
+        <title>I tested Posititive...</title>
+        <author>
+            <name>Peter Yates</name>
+        </author>
+        <link href="https://peteryates.net/i-tested-posititive/"/>
+        <id>https://peteryates.net/i-tested-posititive/</id>
+
+        <updated>2022-04-05T07:33:36+10:00</updated>
+            <summary>
+                <![CDATA[
+                    Well, I guess this is it. Did a RAT this morning after having symptoms, and a little weeney red line. If you've seen me in person, do a RAT I guess. If something else comes up, I'll update this post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Well, I guess this is it. Did a RAT this morning after having symptoms, and a little weeney red line. If you've seen me in person, do a RAT I guess. If something else comes up, I'll update this post.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Notre Dame History Project</title>
         <author>
